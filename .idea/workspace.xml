@@ -22,17 +22,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Web1/Semaines/semaine9.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="841">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Web1/Semaines/semaine10.html">
+        <entry file="file://$PROJECT_DIR$/Web1/Semaines/semaine9.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="841">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
@@ -45,6 +36,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="841">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="30" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -118,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Entreprise/Entreprise.html" />
         <option value="$PROJECT_DIR$/Web1/Web1.html" />
         <option value="$PROJECT_DIR$/Application1/Semaines/semaine1.html" />
         <option value="$PROJECT_DIR$/Application1/Semaines/semaine2.html" />
@@ -169,6 +168,7 @@
         <option value="$PROJECT_DIR$/Entreprise/Semaines/semaine15.html" />
         <option value="$PROJECT_DIR$/Web1/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -240,15 +240,16 @@
       <option name="presentableId" value="Default" />
       <updated>1558532426020</updated>
       <workItem from="1558532431464" duration="3838000" />
-      <workItem from="1558553708709" duration="8053000" />
+      <workItem from="1558553708709" duration="8661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11891000" />
+    <option name="totallyTimeSpent" value="12499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -275,13 +276,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/background5.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application1/Semaines/semaine1.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -772,6 +766,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="841">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="30" selection-end-column="14" />
         </state>
       </provider>
     </entry>
